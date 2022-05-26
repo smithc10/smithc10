@@ -1,0 +1,42 @@
+# Hi! I'm Connor 🌵
+
+Software Engineer located in NYC
+## More About Me 👨🏼‍💻
+```
+const connor = {
+    pronouns: "He" | "Him",
+    bio: "I am a self-taught software developer with a degree in
+          Psychological Sciences and background in data analytics
+          and left academia to pursue coding and web development
+          full time!",
+    interests: ["music", "video games", "horror films", "web development"],
+    skills: {
+        programmingLanguages: ["JavaScript", "TypeScript", "R", "Python"]
+        frontEnd: {
+            js: ["React", "Redux", "jQuery", "AngularJS", "Formik"],
+            css: ["SCSS", "MaterialUI", "Tailwind", "bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        dataScience: {
+            r: ["tidyverse", "ggplot2"],
+            python: ["pandas", "NumPy"]
+        },
+        devOps: {
+            automation: ["Cypress", "WebDriver", "Playwright"],
+            aws: ["Amplify"],
+            cicd: ["Jenkins"]
+        },
+        misc: ["HTML", "Markdown", "Git", "Gitlab" "NPM", "Postman", "Storybook", "Karma", "Yup", "Jest"]
+    }
+};
+```
+## Connect with me 🔗
+
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40em" align="center" alt="Follow smithc10 on LinkedIn" title="Follow Connor on LinkedIn"/>](https://www.linkedin.com/in/connor-smith-nyc/)
+
+<!---
+smithc10/smithc10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
