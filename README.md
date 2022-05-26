@@ -28,7 +28,7 @@ const connor = {
             aws: ["Amplify"],
             cicd: ["Jenkins"]
         },
-        misc: ["HTML", "Markdown", "Git", "Gitlab" "NPM", "Postman", "Storybook", "Karma", "Yup", "Jest"]
+        misc: ["HTML", "Markdown", "Git", "Gitlab", "NPM", "Postman", "Storybook", "Karma", "Yup", "Jest"]
     }
 };
 ```
