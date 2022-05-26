@@ -2,16 +2,16 @@
 
 Software Engineer located in NYC
 ## More About Me 👨🏼‍💻
-```
+``` js
 const connor = {
-    pronouns: "He" | "Him",
+    pronouns: ["He", "Him"],
     bio: "I am a self-taught software developer with a degree in
           Psychological Sciences and background in data analytics
           and left academia to pursue coding and web development
           full time!",
     interests: ["music", "video games", "horror films", "web development"],
     skills: {
-        programmingLanguages: ["JavaScript", "TypeScript", "R", "Python"]
+        programmingLanguages: ["JavaScript", "TypeScript", "R", "Python"],
         frontEnd: {
             js: ["React", "Redux", "jQuery", "AngularJS", "Formik"],
             css: ["SCSS", "MaterialUI", "Tailwind", "bootstrap"]
