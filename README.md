@@ -5,10 +5,10 @@ Software Engineer located in NYC
 ``` js
 const connor = {
     pronouns: ["He", "Him"],
-    bio: "I am a self-taught software developer with a degree in
+    bio: `I am a self-taught software developer with a degree in
           Psychological Sciences and background in data analytics
           and left academia to pursue coding and web development
-          full time!",
+          full time!`,
     interests: ["music", "video games", "horror films", "web development"],
     skills: {
         programmingLanguages: ["JavaScript", "TypeScript", "R", "Python"],
