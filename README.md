@@ -13,7 +13,7 @@ const connor = {
     skills: {
         programmingLanguages: ["JavaScript", "TypeScript", "R", "Python"],
         frontEnd: {
-            js: ["React", "Redux", "jQuery", "AngularJS", "Formik"],
+            js: ["React", "Redux", "jQuery", "NextJS", "AngularJS", ],
             css: ["SCSS", "MaterialUI", "Tailwind", "bootstrap"]
         },
         backEnd: {
@@ -28,13 +28,15 @@ const connor = {
             aws: ["Amplify"],
             cicd: ["Jenkins"]
         },
-        misc: ["HTML", "Markdown", "Git", "Gitlab", "NPM", "Postman", "Storybook", "Karma", "Yup", "Jest"]
+        misc: ["HTML", "Markdown", "Git", "Gitlab", "NPM", "Postman", "Storybook", "Karma", "Yup", "Formik", "Jest", "Pygame"]
     }
 };
 ```
+## Projects 💾
+
 ## Connect with me 🔗
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40em" align="center" alt="Follow smithc10 on LinkedIn" title="Follow Connor on LinkedIn"/>](https://www.linkedin.com/in/connor-smith-nyc/)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="40em" align="center" alt="Follow smithc10 on LinkedIn" title="Follow Connor on LinkedIn"/>](https://www.linkedin.com/in/connor-smith-nyc/)    [<img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" hspace="15" height="40em" align="center" alt="Follow Connor on Spotify" title="Follow Connor on Spotify"/>](https://open.spotify.com/user/vaordd4b04uwx0pyyxe6b3a57?si=8896dcbafd244919)
 
 <!---
 smithc10/smithc10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
