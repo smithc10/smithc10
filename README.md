@@ -32,8 +32,6 @@ const connor = {
     }
 };
 ```
-## Projects 💾
-
 ## Connect with me 🔗
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="40em" align="center" alt="Follow smithc10 on LinkedIn" title="Follow Connor on LinkedIn"/>](https://www.linkedin.com/in/connor-smith-nyc/)    [<img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" hspace="15" height="40em" align="center" alt="Follow Connor on Spotify" title="Follow Connor on Spotify"/>](https://open.spotify.com/user/vaordd4b04uwx0pyyxe6b3a57?si=8896dcbafd244919)
