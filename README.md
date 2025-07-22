@@ -1,7 +1,6 @@
 # Hi! I'm Connor 🌵
 
 Software Engineer located in ATX
-## More About Me 👨🏼‍💻
 ``` js
 const connor = {
     pronouns: ["He", "Him"],
