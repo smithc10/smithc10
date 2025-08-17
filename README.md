@@ -10,7 +10,7 @@ const connor = {
           full time!`,
     interests: ["music", "video games", "horror films", "web development"],
     skills: {
-        programmingLanguages: ["JavaScript", "TypeScript", "R", "Python"],
+        programmingLanguages: ["JavaScript", "Python", "R", "Swift", "TypeScript"],
         frontEnd: {
             js: ["React", "Redux", "jQuery", "NextJS", "AngularJS"],
             css: ["SCSS", "MaterialUI", "Tailwind", "Bootstrap"]
@@ -24,7 +24,7 @@ const connor = {
         },
         devOps: {
             automation: ["Cypress", "WebDriver", "Playwright"],
-            aws: ["Amplify", "CloudFormation", "CloudWatch", "EC2", "Systems Manager", "S3"],
+            aws: ["Amplify", "AppConfig", "CloudFormation", "CloudFront", "CloudWatch", "EC2", "SystemsManager", "S3"],
             cicd: ["Jenkins"]
         },
         misc: ["HTML", "Markdown", "Git", "Gitlab", "NPM", "Postman", "Storybook", "Karma", "Yup", "Formik", "Jest", "Pygame"]
