@@ -2,7 +2,7 @@
 
 ## Software Engineer at Amazon based in Austin, TX.
 
-Before becoming an engineer, I was an undergraduate researcher at the University of Arizona studying black widow spiders, while earning a degree in Psychological Sciences. After graduating, I began working as a software engineer, carrying that background into every role since. My unique perspective shapes how I think about the people on the other side of the software I build.
+Before becoming an engineer, I was an undergraduate researcher at the University of Arizona studying black widow spiders, while earning a degree in Psychological Sciences. After graduating, I began working as a software engineer. My unique background shapes how I think about the people on the other side of the software I build.
 
 ## What I Work With
 
