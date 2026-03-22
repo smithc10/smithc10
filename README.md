@@ -2,7 +2,7 @@
 
 ## Software Engineer at Amazon based in Austin, TX.
 
-Before becoming an engineer, I was an undergraduate researcher at the University of Arizona studying black widow spiders, while earning a degree in Psychological Sciences. After graduating, I began working as a software engineer. My unique background shapes how I think about the people on the other side of the software I build.
+Before becoming an engineer, I was an undergraduate researcher at the University of Arizona studying black widow spiders, while earning a degree in Psychological Sciences. After graduating, I began working as a software engineer, carrying that background into every role since. My unique perspective shapes how I think about the people on the other side of the software I build.
 
 ## What I Work With
 
@@ -20,7 +20,7 @@ Before becoming an engineer, I was an undergraduate researcher at the University
 
 **AWS**
 
-![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat&logo=awslambda&logoColor=white) ![CloudWatch](https://img.shields.io/badge/-CloudWatch-E7157B?style=flat&logo=amazoncloudwatch&logoColor=white) ![CloudFormation](https://img.shields.io/badge/-CloudFormation-E7157B?style=flat&logo=amazonaws&logoColor=white) ![CloudFront](https://img.shields.io/badge/-CloudFront-7C3AED?style=flat&logo=amazonaws&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-1A2BAD?style=flat&logo=amazondynamodb&logoColor=white) ![SNS](https://img.shields.io/badge/-SNS-7C3AED?style=flat&logo=amazonaws&logoColor=white) ![SQS](https://img.shields.io/badge/-SQS-7C3AED?style=flat&logo=amazonsqs&logoColor=white) ![S3](https://img.shields.io/badge/-S3-158F25?style=flat&logo=amazons3&logoColor=white) ![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat&logo=amazonec2&logoColor=white) ![Amplify](https://img.shields.io/badge/-Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white) ![AppConfig](https://img.shields.io/badge/-AppConfig-7B003D?style=flat&logo=amazonaws&logoColor=white) ![Systems Manager](https://img.shields.io/badge/-Systems%20Manager-3D3D3D?style=flat&logo=amazonaws&logoColor=white) ![Explorer](https://img.shields.io/badge/-Explorer-3D3D3D?style=flat&logo=amazonaws&logoColor=white) ![IAM](https://img.shields.io/badge/-IAM-DD344C?style=flat&logo=amazonaws&logoColor=white) ![Secrets Manager](https://img.shields.io/badge/-Secrets%20Manager-7C3AED?style=flat&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat&logo=awslambda&logoColor=white) ![CloudWatch](https://img.shields.io/badge/-CloudWatch-E7157B?style=flat&logo=amazoncloudwatch&logoColor=white) ![CloudFormation](https://img.shields.io/badge/-CloudFormation-E7157B?style=flat&logo=amazonaws&logoColor=white) ![CloudFront](https://img.shields.io/badge/-CloudFront-7C3AED?style=flat&logo=amazonaws&logoColor=white) ![Route 53](https://img.shields.io/badge/-Route%2053-7C3AED?style=flat&logo=amazonaws&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-1A2BAD?style=flat&logo=amazondynamodb&logoColor=white) ![SNS](https://img.shields.io/badge/-SNS-7C3AED?style=flat&logo=amazonaws&logoColor=white) ![SQS](https://img.shields.io/badge/-SQS-7C3AED?style=flat&logo=amazonsqs&logoColor=white) ![S3](https://img.shields.io/badge/-S3-158F25?style=flat&logo=amazons3&logoColor=white) ![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat&logo=amazonec2&logoColor=white) ![Amplify](https://img.shields.io/badge/-Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white) ![AppConfig](https://img.shields.io/badge/-AppConfig-7B003D?style=flat&logo=amazonaws&logoColor=white) ![Systems Manager](https://img.shields.io/badge/-Systems%20Manager-3D3D3D?style=flat&logo=amazonaws&logoColor=white) ![Explorer](https://img.shields.io/badge/-Explorer-3D3D3D?style=flat&logo=amazonaws&logoColor=white) ![API Gateway](https://img.shields.io/badge/-API%20Gateway-7C3AED?style=flat&logo=amazonaws&logoColor=white) ![Cognito](https://img.shields.io/badge/-Cognito-DD344C?style=flat&logo=amazonaws&logoColor=white) ![IAM](https://img.shields.io/badge/-IAM-DD344C?style=flat&logo=amazonaws&logoColor=white) ![Secrets Manager](https://img.shields.io/badge/-Secrets%20Manager-DD344C?style=flat&logo=amazonaws&logoColor=white)
 
 **Data Science**
 
@@ -28,11 +28,14 @@ Before becoming an engineer, I was an undergraduate researcher at the University
 
 ## Projects
 
-🌐 **[connorsmith.dev](https://connorsmith.dev)**: My personal website
+🌐 **[connorsmith.dev](https://connorsmith.dev)**
+<br>My personal website
 
-🎞️ **[movie-club-queue-website](https://github.com/smithc10/movie-club-queue-website)**: A website for my movie club to manage scheduling discussions. (not live yet, lol)
+🎞️ **[movie-club-queue-website](https://github.com/smithc10/movie-club-queue-website)**
+<br>A website for my movie club to manage scheduling discussions. (not live yet, lol)
 
-📍 **[ParkIt](https://github.com/smithc10/ParkIt)**: A simple iOS app to remember where you parked in a parking garage, because I never can
+📍 **[ParkIt](https://github.com/smithc10/ParkIt)**
+<br>A simple iOS app to remember where you parked in a parking garage, because I never can
 
 ## Non-Tech Stuff
 
@@ -40,8 +43,4 @@ I enjoy film, playing guitar+bass, vintage watches, traveling, video games, Form
 
 ## Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connor--smith--atx-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/connor-smith-atx/)
-
-[![Website](https://img.shields.io/badge/Website-connorsmith.dev-000?style=flat&logo=astro)](https://connorsmith.dev)
-
-[![Email](https://img.shields.io/badge/Email-csmith8dev@gmail.com-EA4335?style=flat&logo=gmail)](mailto:csmith8dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connor--smith--atx-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/connor-smith-atx/) [![Website](https://img.shields.io/badge/Website-connorsmith.dev-000?style=flat&logo=astro)](https://connorsmith.dev) [![Email](https://img.shields.io/badge/Email-csmith8dev@gmail.com-EA4335?style=flat&logo=gmail)](mailto:csmith8dev@gmail.com)
